@@ -1,0 +1,16 @@
+{
+  "name": "latlonreps",
+  "version": "0.0.0",
+  "description": "parses and generates multiple forms of lat, lon",
+  "main": "latlonparser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test -R spec"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "mocha": "~1.7.4"
+  }
+}
