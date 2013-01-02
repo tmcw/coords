@@ -1,4 +1,4 @@
-var latlonreps = {
+var coords = {
     fromSexagesimal: function(x) {
         var deg = 0,
             r = /(\d+)[˚°]\s*(\d+)?[′‘']?\s*(\d+)?[″"]?\s*(S|N|E|W)?/,
@@ -52,4 +52,4 @@ var latlonreps = {
     }
 };
 
-if (typeof module !== 'undefined') module.exports = latlonreps;
+if (typeof module !== 'undefined') module.exports = coords;

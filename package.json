@@ -1,8 +1,8 @@
 {
-  "name": "latlonreps",
+  "name": "coords",
   "version": "0.0.0",
   "description": "parses and generates multiple forms of lat, lon",
-  "main": "latlonparser.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
