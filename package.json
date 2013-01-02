@@ -10,7 +10,7 @@
     "test": "./node_modules/mocha/bin/mocha test -R spec"
   },
   "license": "BSD",
-  "dependencies": {
+  "devDependencies": {
     "mocha": "~1.7.4"
   }
 }

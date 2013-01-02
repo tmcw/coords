@@ -1,0 +1,14 @@
+{
+  "name": "latlonparser",
+  "repo": "tmcw/latlonparser",
+  "description": "parse and generate sexagesimal and decimal coordinates",
+  "version": "0.0.0",
+  "keywords": ["maps", "sexagesimal"],
+  "dependencies": {
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "latlonparser.js"
+  ]
+}
