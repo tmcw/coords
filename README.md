@@ -11,3 +11,6 @@ coords.parse('66° 30′ 0″ S');
 coords.parse('66.5');
 // 66.5
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/coords.svg)](https://greenkeeper.io/)
